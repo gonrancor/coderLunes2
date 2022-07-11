@@ -1,0 +1,4 @@
+*/fuentes
+*.log
+*.avi
+passwordsZaza
